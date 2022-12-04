@@ -3,7 +3,7 @@ import Button from '@mui/material/Button';
 import Modal from '@mui/material/Modal';
 import s from './About.module.scss';
 import WordTable from '../../WordTable/WordTable';
-import CategoryWords from '../../CategoryWords/CategoryWords'
+import SelectCategoriesWords from '../../SelectCategoriesWords/SelectCategoriesWords'
 import {Container, TextField} from '@mui/material';
 
 
@@ -126,7 +126,7 @@ class About extends React.Component {
                         </div>
                     </Modal>
                 </Container>
-                <CategoryWords />
+                <SelectCategoriesWords />
                 <WordTable />
             </div>
         );

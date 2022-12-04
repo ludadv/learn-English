@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da8bfece-2523-48d7-a6fe-5c66a3e0fc57" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Components/SelectCategoriesWords/SelectCategoriesWords.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/SelectCategoriesWords/SelectCategoriesWords.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Pages/About/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/About/About.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Gb6wvhMrzGrczzZuZIaHmuWgn4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../react-project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\learn-english\src\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da8bfece-2523-48d7-a6fe-5c66a3e0fc57" name="Default Changelist" comment="" />
+      <created>1666645177326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666645177326</updated>
+      <workItem from="1666645181015" duration="2464000" />
+      <workItem from="1666707234128" duration="1182000" />
+      <workItem from="1666724456320" duration="7386000" />
+      <workItem from="1666799595854" duration="1154000" />
+      <workItem from="1666957004934" duration="3085000" />
+      <workItem from="1666978744457" duration="4531000" />
+      <workItem from="1667240569898" duration="8561000" />
+      <workItem from="1667296224322" duration="4705000" />
+      <workItem from="1667309239667" duration="6740000" />
+      <workItem from="1667323854569" duration="10626000" />
+      <workItem from="1667502548392" duration="5486000" />
+      <workItem from="1667556293530" duration="1749000" />
+      <workItem from="1667745042141" duration="2924000" />
+      <workItem from="1667847049384" duration="2650000" />
+      <workItem from="1668114486181" duration="815000" />
+      <workItem from="1668195097986" duration="7463000" />
+      <workItem from="1668284394258" duration="13351000" />
+      <workItem from="1668437639510" duration="3989000" />
+      <workItem from="1668535463354" duration="9554000" />
+      <workItem from="1668611348690" duration="8233000" />
+      <workItem from="1668625062207" duration="1385000" />
+      <workItem from="1668626579860" duration="1484000" />
+      <workItem from="1668682187925" duration="8545000" />
+      <workItem from="1668715423600" duration="3248000" />
+      <workItem from="1668770040421" duration="12157000" />
+      <workItem from="1668951009327" duration="18632000" />
+      <workItem from="1669064710943" duration="1302000" />
+      <workItem from="1669145914417" duration="7339000" />
+      <workItem from="1669231064235" duration="8196000" />
+      <workItem from="1669300045909" duration="6213000" />
+      <workItem from="1669320731585" duration="8875000" />
+      <workItem from="1669562974573" duration="13617000" />
+      <workItem from="1669578152595" duration="1028000" />
+      <workItem from="1669581588379" duration="8684000" />
+      <workItem from="1669665850533" duration="9167000" />
+      <workItem from="1670091964309" duration="14597000" />
+      <workItem from="1670170079988" duration="1822000" />
+      <workItem from="1670171937864" duration="3591000" />
+    </task>
+    <task id="LOCAL-00001" summary="add words">
+      <created>1669586047485</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669586047485</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="add words" />
+    <option name="LAST_COMMIT_MESSAGE" value="add words" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+</project>
