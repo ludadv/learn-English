@@ -13,12 +13,8 @@ export const removeWords = (id) => ({
     id,
 });
 
-export const resetAction = () => ({
-    type: 'RESET_ACTION',
-});
-
-export const sortListWords = () => ({
-    type: 'SORT_LIST_WORDS',
+export const resetList = () => ({
+    type: 'RESET_LIST',
 });
 
 

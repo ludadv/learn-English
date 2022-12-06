@@ -18,7 +18,6 @@ class SelectCategoriesWords extends React.Component {
         super(props);
         this.state = {
             value: '',
-            categories: [],
         }
     }
     componentDidMount() {

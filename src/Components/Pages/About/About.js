@@ -8,7 +8,7 @@ import {Container, TextField} from '@mui/material';
 
 
 // redux
-import {addWords, resetAction} from '../../../action';
+import {addWords, resetList} from '../../../action';
 import {connect} from "react-redux";
 
 const mapStateToProps = (state) => {
@@ -35,7 +35,7 @@ const mapDispatchToProps = (dispatch) => {
             data.translation.value = '';
         },
         clearState: () => {
-            dispatch(resetAction())
+            dispatch(resetList())
         }
     }
 }
@@ -141,6 +141,5 @@ class About extends React.Component {
             open: false,
         })
     }
-
 }
 export default connect(mapStateToProps, mapDispatchToProps)(About);

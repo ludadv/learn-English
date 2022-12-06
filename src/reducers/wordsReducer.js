@@ -2,7 +2,6 @@
 const words = (state = [], action) => {
     switch (action.type) {
         case 'ADD_WORDS':
-            console.log(state)
             return [
                 ...state,
                 {
@@ -15,20 +14,11 @@ const words = (state = [], action) => {
             ]
         case  'REMOVE_WORDS':
             return state.filter((item) => item.id !== action.id);
-        case 'RESET_ACTION':
+        case 'RESET_LIST':
             return [];
-        case 'SORT_LIST_WORDS':
-            console.log('SORT_LIST_WORDS');
-        //     // let arr = [];
-        //     // this.props.params.words.forEach((item) => {
-        //     //     arr.push(item.category);
-        //     // });
-        //     // let arrNew = arr.filter((item, index) => {
-        //     //     return index === arr.indexOf(item);
-        //     // });
-        //     return state;
         default:
             return state;
     }
 }
+
 export default words;

@@ -79,5 +79,4 @@ class WordTable extends React.Component {
         );
     }
 }
-
 export default connect(mapStateToProps, mapDispatchToProps)(WordTable);
